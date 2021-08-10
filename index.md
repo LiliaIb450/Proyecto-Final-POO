@@ -13,6 +13,10 @@ El juego comienza de manera sencilla la velocidad no es demasiada y lo que debes
 [![2021-08-10.png](https://i.postimg.cc/pT1qvJVk/2021-08-10.png)](https://postimg.cc/JDZbcJkB)
 [![2021-08-10-1.png](https://i.postimg.cc/cHJXPbWr/2021-08-10-1.png)](https://postimg.cc/xkWvzgc2)
 
+### Diagramas UML 
+<a href='https://postimg.cc/wt86SsrV' target='_blank'><img src='https://i.postimg.cc/wt86SsrV/Diagrama-de-clases-UML.png' border='0' alt='Diagrama-de-clases-UML'/></a>
+
+
 ```markdown
 Syntax highlighted code block
 
