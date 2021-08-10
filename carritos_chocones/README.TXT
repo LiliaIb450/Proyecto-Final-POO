@@ -8,7 +8,7 @@ para resolver problemas. :
 PROJECT TITLE: Carritos_chocones 
 PURPOSE OF PROJECT: Dar a conocer y entender un poco más la POO
 VERSION or DATE:09/08/2021
-HOW TO START THIS PROJECT:
+MATERIA: Desarrollo Y Programación Orientada a Objetos 
 AUTHORS: Lilia Zuñiga Ibarra
 USER INSTRUCTIONS: En el juego tenemos "enemigos" si es que se le puede llamar así 
 que básicamente son cochecitos que vienen en sentido contrario con la finalidad de esquivarlos. 
