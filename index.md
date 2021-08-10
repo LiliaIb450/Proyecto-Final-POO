@@ -10,10 +10,7 @@ Bien el juego presentado, toma ciertas caracteristicas de los juegos comunes en 
 El juego comienza de manera sencilla la velocidad no es demasiada y lo que debes hacer es moverte de izquierda a derecha o de arriba a abajo, de manera que esquives los demas coches, por cada 4 coches que logres pasar subires de nivel y subira la velocidad, la posición de los coches (enemigos) varían de un lado a otro, en caso de que pierdes te llevara a una screen de Game Over.
 
 ###  Imagenes sobre el juego. .
-https://postimg.cc/JDZbcJkB
-https://postimg.cc/xkWvzgc2
-https://postimg.cc/GTRvM2Fg
-
+[![2021-08-10.png](https://i.postimg.cc/pT1qvJVk/2021-08-10.png)](https://postimg.cc/JDZbcJkB)
 
 ```markdown
 Syntax highlighted code block
