@@ -3,13 +3,13 @@
 ## Objetivo general: 
 El alumno aplicará los conceptos fundamentales del paradigma orientado a objetos de manera que se amplie su conocimiento y pueda resolver lso problemas que se le presentan. 
 
-### ## ¿De que trata este juego? 
+###  ¿De que trata este juego? 
 Bien el juego presentado, toma ciertas caracteristicas de los juegos comunes en los años 80's en donde el actor principal que en si es el jugador, debe evitar chocar con los demas carritos que vienen contra el. es un juego sencillo pero conforme vas pasando los carritos, subes de nivel y por lo tanto sube la velocidad. 
 
-### Explicacion de las reglas del juego: 
+##  Explicacion de las reglas del juego: : 
 El juego comienza de manera sencilla la velocidad no es demasiada y lo que debes hacer es moverte de izquierda a derecha o de arriba a abajo, de manera que esquives los demas coches, por cada 4 coches que logres pasar subires de nivel y subira la velocidad, la posición de los coches (enemigos) varían de un lado a otro, en caso de que pierdes te llevara a una screen de Game Over.
 
-#### ### ## Imagenes sobre el juego. .
+###  Imagenes sobre el juego. .
 https://postimg.cc/JDZbcJkB
 https://postimg.cc/xkWvzgc2
 https://postimg.cc/GTRvM2Fg
