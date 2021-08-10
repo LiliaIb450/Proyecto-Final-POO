@@ -10,5 +10,7 @@ PURPOSE OF PROJECT: Dar a conocer y entender un poco más la POO
 VERSION or DATE:09/08/2021
 MATERIA: Desarrollo Y Programación Orientada a Objetos 
 AUTHORS: Lilia Zuñiga Ibarra
+Obra: Juego de los 90
+Música de https://www.fiftysounds.com/es/
 USER INSTRUCTIONS: En el juego tenemos "enemigos" si es que se le puede llamar así 
 que básicamente son cochecitos que vienen en sentido contrario con la finalidad de esquivarlos. 
