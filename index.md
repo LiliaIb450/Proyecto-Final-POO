@@ -10,8 +10,8 @@ Bien el juego presentado, toma ciertas caracteristicas de los juegos comunes en 
 El juego comienza de manera sencilla la velocidad no es demasiada y lo que debes hacer es moverte de izquierda a derecha o de arriba a abajo, de manera que esquives los demas coches, por cada 4 coches que logres pasar subires de nivel y subira la velocidad, la posición de los coches (enemigos) varían de un lado a otro, en caso de que pierdes te llevara a una screen de Game Over.
 
 ###  Imagenes sobre el juego. .
-[![2021-08-10.png](https://i.postimg.cc/pT1qvJVk/2021-08-10.png)](https://postimg.cc/JDZbcJkB)
-[![2021-08-10-1.png](https://i.postimg.cc/cHJXPbWr/2021-08-10-1.png)](https://postimg.cc/xkWvzgc2)
+<a href='https://postimg.cc/JDZbcJkB' target='_blank'><img src='https://i.postimg.cc/JDZbcJkB/2021-08-10.png' border='0' alt='2021-08-10'/></a>
+<a href='https://postimg.cc/xkWvzgc2' target='_blank'><img src='https://i.postimg.cc/xkWvzgc2/2021-08-10-1.png' border='0' alt='2021-08-10-1'/></a>
 
 ### Diagramas UML 
 <a href='https://postimg.cc/wt86SsrV' target='_blank'><img src='https://i.postimg.cc/wt86SsrV/Diagrama-de-clases-UML.png' border='0' alt='Diagrama-de-clases-UML'/></a>
