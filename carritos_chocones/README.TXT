@@ -1,12 +1,14 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+//-----------------------------------------------------------------------
+La finalidad de este proyecto a parte de pasar la materia, es comprender 
+y tener una visión más amplia de la programación orientada a objetos así
+como aplicar los conceptos fundamentales del paradigma orientado a objetos
+para resolver problemas. :
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Carritos_chocones 
+PURPOSE OF PROJECT: Dar a conocer y entender un poco más la POO
+VERSION or DATE:09/08/2021
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS: Lilia Zuñiga Ibarra
+USER INSTRUCTIONS: En el juego tenemos "enemigos" si es que se le puede llamar así 
+que básicamente son cochecitos que vienen en sentido contrario con la finalidad de esquivarlos. 
