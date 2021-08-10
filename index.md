@@ -11,6 +11,7 @@ El juego comienza de manera sencilla la velocidad no es demasiada y lo que debes
 
 ###  Imagenes sobre el juego. .
 [![2021-08-10.png](https://i.postimg.cc/pT1qvJVk/2021-08-10.png)](https://postimg.cc/JDZbcJkB)
+[![2021-08-10-1.png](https://i.postimg.cc/cHJXPbWr/2021-08-10-1.png)](https://postimg.cc/xkWvzgc2)
 
 ```markdown
 Syntax highlighted code block
