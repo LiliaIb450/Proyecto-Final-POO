@@ -15,32 +15,15 @@ El juego comienza de manera sencilla la velocidad no es demasiada y lo que debes
 
 ### Diagramas UML 
 <a href='https://postimg.cc/wt86SsrV' target='_blank'><img src='https://i.postimg.cc/wt86SsrV/Diagrama-de-clases-UML.png' border='0' alt='Diagrama-de-clases-UML'/></a>
+<a href='https://postimg.cc/hXny6Drm' target='_blank'><img src='https://i.postimg.cc/hXny6Drm/Casos-Usos.png' border='0' alt='Casos-Usos'/></a>
 
+### Enlace para descargar el archivo ejecutable:
+https://github.com/LiliaIb450/Proyecto-Final-POO
 
-```markdown
-Syntax highlighted code block
+##### Creditos: 
 
-# Header 1
-## Header 2
-### Header 3
+------------
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiliaIb450/Proyecto-Final-POO/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Materia: Desarrollo Y Programacion Orientada A Objetos
+Autor: Lilia  ZuñIga 
+Fecha: 09/08/2021
