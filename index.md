@@ -1,4 +1,4 @@
-# PROYECTO FINAL PROGRMACIÓN ORIENTADO A OBJETOS 
+# PROYECTO FINAL PROGRAMACIÓN ORIENTADO A OBJETOS 
 
 ## Objetivo general: 
 El alumno aplicará los conceptos fundamentales del paradigma orientado a objetos de manera que se amplie su conocimiento y pueda resolver lso problemas que se le presentan. 
